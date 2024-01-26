@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hiJIAQrRYkel0oW1CcydpSB/UmnUvexgVDVUZ0mEpME=",
+  "Source": "PrisonerWebAPI",
+  "BasePath": "_content/PrisonerWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

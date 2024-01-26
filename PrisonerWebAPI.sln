@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrisonerWebAPI", "PrisonerWebAPI\PrisonerWebAPI.csproj", "{F73C2C74-9FE3-465C-AF06-107151807818}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F73C2C74-9FE3-465C-AF06-107151807818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F73C2C74-9FE3-465C-AF06-107151807818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F73C2C74-9FE3-465C-AF06-107151807818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F73C2C74-9FE3-465C-AF06-107151807818}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE0F2539-7543-4ECC-A602-85A7B1A1E54F}
+	EndGlobalSection
+EndGlobal
